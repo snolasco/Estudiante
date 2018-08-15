@@ -1,5 +1,5 @@
 colegio,genero,edad,direccion,numfamilia,estconv,tutor,apoyedu,apofam,actividades,edusup,internet,relfam,salud,ausencia,C1,C2,C3
-GP,F,17,U,GT3,JUNTS,PADRE,no,si,no,si,si,5,3,4,5,5,6
+GP,F,17,U,GT3,JUNTOS,PADRE,no,si,no,si,si,5,3,4,5,5,6
 GP,F,16,U,GT3,JUNTOS,PADRE,no,si,no,si,no,4,5,4,6,10,10
 GP,F,15,U,GT3,JUNTOS,PADRE,no,si,si,si,si,5,4,4,10,12,12
 GP,M,15,U,LE3,JUNTOS,PADRE,no,si,si,si,si,4,5,2,14,14,14
